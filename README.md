@@ -51,7 +51,7 @@
 
 ## Tutorials / Guides
 
-- [<style-guide>](https://polymerelements.github.io/style-guide/)
+- [Style Guide](https://polymerelements.github.io/style-guide/)
 - [Testing Tips](https://medium.com/google-developer-experts/polymer-testing-tips-f217ba94a64) - 2016-01
 - [Unit Testing](https://medium.com/@granze/polymer-unit-testing-d6a69910dc31) - 2015-08
 - [Migration guide](https://www.polymer-project.org/1.0/docs/migration.html)
@@ -94,25 +94,25 @@
 
 ## Boilerplates
 
-- [Polymer Starter Kit](https://developers.google.com/web/tools/polymer-starter-kit/) Build tools & boilerplate for creating production-quality web apps.
+- [Polymer Starter Kit](https://developers.google.com/web/tools/polymer-starter-kit/) - Build tools & boilerplate for creating production-quality web apps.
 - [Polymer Starter Kit Plus](https://github.com/StartPolymer/polymer-starter-kit-plus)
 - [Seed element](https://github.com/polymerlabs/seed-element)
 
 ## Generators
 
-- [Polymer Generator](https://github.com/yeoman/generator-polymer) Yeoman generator for Polymer projects, based on the official [Starter kit](https://developers.google.com/web/tools/polymer-starter-kit/).
+- [Polymer Generator](https://github.com/yeoman/generator-polymer) - Yeoman generator for Polymer projects, based on the official [Starter kit](https://developers.google.com/web/tools/polymer-starter-kit/).
 - [Start Polymer Generator](https://github.com/StartPolymer/generator-startpolymer)
 
 ## Official Elements
 
 - [Elements Catalog](https://elements.polymer-project.org) 
- - [Iron](https://elements.polymer-project.org/browse?package=iron-elements) Iron elements are a set of visual and non-visual utility elements.
- - [Paper](https://elements.polymer-project.org/browse?package=paper-elements) Paper elements are a set of visual elements that implement Google's Material Design.
+ - [Iron](https://elements.polymer-project.org/browse?package=iron-elements) - Iron elements are a set of visual and non-visual utility elements.
+ - [Paper](https://elements.polymer-project.org/browse?package=paper-elements) - Paper elements are a set of visual elements that implement Google's Material Design.
  - [Google web components](https://elements.polymer-project.org/browse?package=google-web-components) 
- - [Gold](https://elements.polymer-project.org/browse?package=gold-elements) The gold elements are built for e-commerce use-cases like checkout flows.
- - [Neon](https://elements.polymer-project.org/browse?package=neon-elements) Neon elements implement special effects.
- - [Platinum](https://elements.polymer-project.org/browse?package=platinum-elements) Elements to turn your web page into a true webapp, with push, offline, and more.
- - [Molecules](https://elements.polymer-project.org/browse?package=molecules) Elements that wrap other javascript libraries.
+ - [Gold](https://elements.polymer-project.org/browse?package=gold-elements) - The gold elements are built for e-commerce use-cases like checkout flows.
+ - [Neon](https://elements.polymer-project.org/browse?package=neon-elements) - Neon elements implement special effects.
+ - [Platinum](https://elements.polymer-project.org/browse?package=platinum-elements) - Elements to turn your web page into a true webapp, with push, offline, and more.
+ - [Molecules](https://elements.polymer-project.org/browse?package=molecules) - Elements that wrap other javascript libraries.
 
 ## Element Lists
 
@@ -120,39 +120,38 @@
 - [Built with Polymer](http://builtwithpolymer.org)
 - [Customelemets.io](http://customelements.io)
 - [Components Kitchen](http://component.kitchen)
-- [open-elements](http://open-elements.org) Open for all elements working with polymer ^1.1
+- [open-elements](http://open-elements.org) - Open for all elements working with polymer ^1.1
 
 ## Tools
 
-- [Polyserve](https://github.com/polymerlabs/polyserve) A simple web server for using bower components locally.
-- [Polybuild](https://github.com/PolymerLabs/polybuild) An all-in-one build tool for Polymer apps.
-- [Polyup](https://github.com/PolymerLabs/polyup) A helpful assistant for migrating from Polymer v0.5 to 1.0. 
-- [Polylint](https://github.com/PolymerLabs/polylint) Detect errors in your code.
-- [Polygit](http://polygit.org/) The Magic Server serves files directly from github (via `cdn.rawgit.com`) in a manner that is compatible with HTML Imports natural deduplication feature.
-- [Polydev](https://github.com/PolymerLabs/polydev) DevTool extension.
-- [Polymer Ready](https://chrome.google.com/webstore/detail/polymer-ready/aaifiopbmiecbpladpjaoemohhfjcbdk) Show an icon in the address bar when it detects some Polymer and Custom components.
-- [PolySearch](https://chrome.google.com/webstore/detail/polysearch/gchibjlnlbpgcfjpbebnlecbbjndiidj) Search for Polymer elements directly from the Google Chrome's Omnibox. 
-- [Vulcanize](https://github.com/Polymer/vulcanize) Build tool for HTMLimports and web components.
-- [Crisper](https://github.com/PolymerLabs/crisper) Split inline scripts from an HTML file for CSP compliance.
+- [Polyserve](https://github.com/polymerlabs/polyserve) - A simple web server for using bower components locally.
+- [Polybuild](https://github.com/PolymerLabs/polybuild) - An all-in-one build tool for Polymer apps.
+- [Polyup](https://github.com/PolymerLabs/polyup) - A helpful assistant for migrating from Polymer v0.5 to 1.0. 
+- [Polylint](https://github.com/PolymerLabs/polylint) - Detect errors in your code.
+- [Polygit](http://polygit.org/) - The Magic Server serves files directly from github (via `cdn.rawgit.com`) in a manner that is compatible with HTML Imports natural deduplication feature.
+- [Polydev](https://github.com/PolymerLabs/polydev) - DevTool extension.
+- [Polymer Ready](https://chrome.google.com/webstore/detail/polymer-ready/aaifiopbmiecbpladpjaoemohhfjcbdk) - Show an icon in the address bar when it detects some Polymer and Custom components.
+- [PolySearch](https://chrome.google.com/webstore/detail/polysearch/gchibjlnlbpgcfjpbebnlecbbjndiidj) - Search for Polymer elements directly from the Google Chrome's Omnibox. 
+- [Vulcanize](https://github.com/Polymer/vulcanize) - Build tool for HTMLimports and web components.
+- [Crisper](https://github.com/PolymerLabs/crisper) - Split inline scripts from an HTML file for CSP compliance.
 - [Snippets for Atom editor](https://atom.io/packages/polymer-snippets)
 - [Snippets for Sublime Text editor](https://packagecontrol.io/packages/Polymer%20%26%20Web%20Component%20Snippets)
 
 ## Testing
 
-- [Web components tester](https://github.com/Polymer/web-component-tester) Makes testing your web components a breeze!
-- [Web components tester istambul](https://github.com/thedeeno/web-component-tester-istanbul) Istanbul coverage plugin for web-component-tester.
-- [test-fixture](https://github.com/PolymerElements/test-fixture) Element that can simplify the exercise of consistently resetting a test suite's DOM.
-- [iron-test-helpers](https://github.com/PolymerElements/iron-test-helpers) Utility classes to make testing easier.
+- [Web components tester](https://github.com/Polymer/web-component-tester) - Makes testing your web components a breeze!
+- [Web components tester istambul](https://github.com/thedeeno/web-component-tester-istanbul) - Istanbul coverage plugin for web-component-tester.
+- [test-fixture](https://github.com/PolymerElements/test-fixture) - Element that can simplify the exercise of consistently resetting a test suite's DOM.
+- [iron-test-helpers](https://github.com/PolymerElements/iron-test-helpers) - Utility classes to make testing easier.
 
 ## Mixins
 
 - [Two-way databinding with Firebase](https://github.com/divshot/polymerfire)
 
-## Theming/Styling
+## Theming / Styling
 
-- [Polymer Themes](https://polymerthemes.com/) Free Polymer themes and templates
-- [Material Palette](https://www.materialpalette.com/) Palette generator based on Material Design
-- [Polystyle](https://poly-style.appspot.com/demo/) Wrap existing stylesheets with Polymer's style module system.
+- [Material Palette](https://www.materialpalette.com/) - Palette generator based on Material Design
+- [Polystyle](https://poly-style.appspot.com/demo/) - Wrap existing stylesheets with Polymer's style module system.
 
 ## Slides
 
