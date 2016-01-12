@@ -1,6 +1,9 @@
-# Awesome Polymer 1.x
+# Awesome Polymer
 
-> A collection of awesome Polymer resources.
+[![GitHub Star](https://img.shields.io/github/stars/StartPolymer/awesome-polymer.svg?label=Star)](https://github.com/StartPolymer/awesome-polymer)
+[![GitHub Watch](https://img.shields.io/github/watchers/StartPolymer/awesome-polymer.svg?label=Watch)](https://github.com/StartPolymer/awesome-polymer)
+
+> A collection of awesome Polymer 1.x resources.
 
 - [General resources](#general-resources)
 - [Polymer Communities](#polymer-communities)
