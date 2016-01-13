@@ -178,6 +178,7 @@
 - [Scan Chrome OS App](https://github.com/beaufortfrancois/scan-chrome-app)
 - [SFTP File System Chrome OS App](https://github.com/yoichiro/chromeos-filesystem-sftp)
 - [Snapdrop](https://snapdrop.net) - The easiest way to transfer files across devices.
+- [TimeDoser](https://github.com/DaniGuardiola/TimeDoser/) - Pomodoro Timer
 - [Voice Memos](https://aerotwist.com/blog/voice-memos/)
 
 ## Polymer Authors
