@@ -175,6 +175,7 @@
 - [Google I/O 2015](https://github.com/GoogleChrome/ioweb2015) - v0.5
 - [Guitar Tuner](https://github.com/GoogleChrome/guitar-tuner)
 - [Chat Demo](https://github.com/kevinpschaaf/chat-view-paper)
+- [Padlock](https://github.com/MaKleSoft/padlock) - A minimalist open source password manager.
 - [Scan Chrome OS App](https://github.com/beaufortfrancois/scan-chrome-app)
 - [SFTP File System Chrome OS App](https://github.com/yoichiro/chromeos-filesystem-sftp)
 - [Snapdrop](https://snapdrop.net) - The easiest way to transfer files across devices.
