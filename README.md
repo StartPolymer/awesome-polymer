@@ -34,6 +34,8 @@
 - [Polymer repos](https://github.com/polymer)
 - [Polymer Elements repos](https://github.com/polymerelements)
 - [Polymer Labs repos](https://github.com/polymerlabs)
+- [Built with Polymer](http://builtwithpolymer.org)
+- [Who's using Polymer?](https://github.com/Polymer/polymer/wiki/Who's-using-Polymer%3F)
 
 ## Polymer Communities
 
@@ -63,6 +65,7 @@
 
 ## Articles
 
+- [Property Change Observers in Polymer](http://www.ericfeminella.com/blog/2016/01/06/property-change-observers-in-polymer/) - 2016-01
 - [Building web components using ES6 classes](https://www.polymer-project.org/1.0/articles/es6.html) - 2015-09
 - [Live-reload for Polymer Chrome Apps](http://codingwithgerwin.blogspot.it/2015/07/live-reload-for-polymer-chrome-apps.html) - 2015-06
 - [Guitar Tuner with Web audio API](https://aerotwist.com/blog/guitar-tuner/) - 2015-06
@@ -117,7 +120,6 @@
 ## Element Lists
 
 - [Awesome Elements](https://github.com/StartPolymer/awesome-elements)
-- [Built with Polymer](http://builtwithpolymer.org)
 - [Customelemets.io](http://customelements.io)
 - [Components Kitchen](http://component.kitchen)
 - [open-elements](http://open-elements.org) - Open for all elements working with polymer ^1.1
