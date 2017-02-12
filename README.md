@@ -62,6 +62,7 @@
 - [Using Neon Animations](https://elements.polymer-project.org/guides/using-neon-animations)
 - [Build a real-time to-do app](https://scotch.io/tutorials/build-a-real-time-polymer-to-do-app) - 2015-08
 - [Taming Polymer with SystemJS and TypeScript](http://blog.charto.net/typescript/Taming-Polymer-with-SystemJS-and-TypeScript-part-1/) - 2015-08
+- [Polymer Cheat Sheet](https://meowni.ca/posts/polymer-cheatsheet/) - 2016-12
 
 ## Articles
 
@@ -189,6 +190,7 @@
 - [Eric Bidelman](https://plus.google.com/+EricBidelman)
 - [Monica Dinculescu](https://github.com/notwaldorf)
 - [Rob Dodson](https://plus.google.com/+RobDodson)
+- [Wendy Ginsberg](https://twitter.com/wmginsberg) [GitHub](https://github.com/wmginsberg) - Product Manager
 - [Polymer Summit Speakers](https://www.polymer-project.org/summit/speakers)
 
 ## Other awesome resources
