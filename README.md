@@ -45,7 +45,7 @@
 - [Google+ Profile](https://plus.google.com/+PolymerProject/)
 - [Google+ Community](https://plus.google.com/communities/115626364525706131031)
 - [Slack channel](http://polymer-slack.herokuapp.com)
-- [Chinese QQ Group](https//shang.qq.com/wpa/qunwpa?idkey=9df0a6fdd100374f1097330ad6327d4d3c40dc734aa8e7a841ae41cda5012980)
+- [Chinese QQ Group](http://shang.qq.com/wpa/qunwpa?idkey=9df0a6fdd100374f1097330ad6327d4d3c40dc734aa8e7a841ae41cda5012980)
 
 
 ## Polymer News
