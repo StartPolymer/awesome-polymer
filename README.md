@@ -63,6 +63,10 @@
 - [Flexbox layout with iron-flex-layout](https://elements.polymer-project.org/guides/flex-layout)
 - [Polymer Cheat Sheets](https://github.com/StartPolymer/polymer-cheat-sheets)
 
+## Integration with other frameworks
+
+- [Aurelia + Polymer integration](http://aurelia.io/hub.html#/doc/article/aurelia/framework/latest/integrating-with-polymer)
+
 ## Articles
 
 - [Managing State in Polymer 2.0 - Beyond Parent / Child Binding](https://www.captaincodeman.com/2017/07/06/managing-state-in-polymer-20-beyond-parent-child-binding) - 2017-07
@@ -90,13 +94,21 @@
 ## Videos
 
 - [Polycasts](https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN)
-- [Polymer Summit 2015](https://www.youtube.com/playlist?list=PLNYkxOF6rcICdISJclfQhj2S8QZGjXV8J)
-- [Chrome Dev Summit 2015](https://www.youtube.com/watch?v=m2a9hlUFRhg&list=PLNYkxOF6rcICcHeQY02XLvoGL34rZFWZn)
-- [The Web Platform Podcast 46: Polymer 1.0](https://www.youtube.com/watch?v=d9tNO3n0RlM)
-- [Google I/O 2015 - Polymer and modern web APIs: In production at Google scale](https://www.youtube.com/watch?v=fD2As5RmM8Q)
-- [Componentize your app with Polymer Elements](https://youtu.be/7WgEuNZCCHk)
-- [Learn Polymer 1.0](https://www.youtube.com/playlist?list=PLPaj_o9gjMYll0sSb47TrzQCjIo5iqQZm) by Stretch Projects
-- [Level up Tutorials](https://www.youtube.com/playlist?list=PLLnpHn493BHGhoGAb2PRKzv4Zw3QoatK-)
+- [Polymer @ Google I/O 2017](https://www.youtube.com/playlist?list=PL_c6rbXV248du6m1VJABo32mP7sXWVb4m) - 2017-05
+- [Chrome and Web @ Google I/O 2017](https://www.youtube.com/playlist?list=PLNYkxOF6rcICniLJ2rfj0FexlA-9zmJJE) - 2017-05
+- [State of Polymer Jan '17 at This.JavaScript with Rob Dodson](https://www.youtube.com/watch?v=UUljsYOdt1Y) - 2017-02
+- [Chrome Dev Summit 2016](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBTs2KPy1E6tIYaWoFcG3uj) - 2016-11
+- [Polymer Summit 2016](https://www.youtube.com/playlist?list=PLNYkxOF6rcICc687SxHQRuo9TVNOJelSZ) - 2016-10
+- [Progressive Web App Summit 2016](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAWWNR_Q6eLPhsyx6VvYjVb) - 2016-06
+- [Polymer @ Google I/O 2016](https://www.youtube.com/playlist?list=PLNYkxOF6rcIDnSm7bZRJC36Ca1DYXSQ70) - 2016-05
+- [Web and Chrome @ Google I/O 2016](https://www.youtube.com/playlist?list=PLNYkxOF6rcIDz1TzmmMRBC-kd8zPRTQIP) - 2016-05
+- [Chrome Dev Summit 2015](https://www.youtube.com/playlist?list=PLNYkxOF6rcICcHeQY02XLvoGL34rZFWZn) - 2015-11
+- [Polymer Summit 2015](https://www.youtube.com/playlist?list=PLNYkxOF6rcICdISJclfQhj2S8QZGjXV8J) - 2015-10
+- [The Web Platform Podcast 46: Polymer 1.0](https://www.youtube.com/watch?v=d9tNO3n0RlM) - 2015-06
+- [Componentize your app with Polymer Elements](https://youtu.be/7WgEuNZCCHk) - 2015-06
+- [Polymer and modern web APIs: In production at Google scale @ Google I/O 2015](https://www.youtube.com/watch?v=fD2As5RmM8Q) - 2015-05
+- [Learn Polymer 1.0](https://www.youtube.com/playlist?list=PLPaj_o9gjMYll0sSb47TrzQCjIo5iqQZm) - 2015
+- [Level up Tutorials](https://www.youtube.com/playlist?list=PLLnpHn493BHGhoGAb2PRKzv4Zw3QoatK-) - 2015
 
 ## Podcasts
 
