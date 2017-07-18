@@ -10,6 +10,7 @@
 - [Polymer Communities](#polymer-communities)
 - [Polymer News](#polymer-news)
 - [Tutorials / Guides](#tutorials-guides)
+- [Integration with other frameworks](#integration-with-other-frameworks)
 - [Articles](#articles)
 - [Case Studies](#case-studies)
 - [Videos](#videos)
@@ -66,12 +67,12 @@
 ## Integration with other frameworks
 
 - [Aurelia + Polymer integration](http://aurelia.io/hub.html#/doc/article/aurelia/framework/latest/integrating-with-polymer)
+- [How to use Polymer with Webpack](https://medium.com/dev-channel/how-to-use-polymer-with-webpack-b41812d78b15) - 2017-07
 
 ## Articles
 
 - [Managing State in Polymer 2.0 - Beyond Parent / Child Binding](https://www.captaincodeman.com/2017/07/06/managing-state-in-polymer-20-beyond-parent-child-binding) - 2017-07
 - [Polymer anti-patterns: Prevent leaking internals between components](https://medium.com/collaborne-engineering/polymer-anti-patterns-prevent-leaking-internals-between-components-8b22d2b9cace) - 2017-07
-- [How to use Polymer with Webpack](https://medium.com/dev-channel/how-to-use-polymer-with-webpack-b41812d78b15) - 2017-07
 - [Don’t use jQuery plugins with Shadow DOM](https://medium.com/dev-channel/dont-use-jquery-plugins-with-shadow-dom-e161f1891511) - 2017-06
 - [Polymer 2.0 pitfalls: key bindings (Accessibility)](https://medium.com/collaborne-engineering/polymer-2-0-pitfalls-key-bindings-accessibility-75865bd7101c) 2017-06
 - [Polymer 2.0 + IE11: Don’t use <dom-bind> in your index.html](https://medium.com/collaborne-engineering/polymer-2-0-ie11-dont-use-dom-bind-in-your-index-html-846b0127acf5) - 2017-06
@@ -126,20 +127,22 @@
 - [Start Polymer Generator](https://github.com/StartPolymer/generator-startpolymer)
 
 ## Official Elements
-
-- [Elements Catalog](https://elements.polymer-project.org) 
- - [Iron](https://elements.polymer-project.org/browse?package=iron-elements) - Iron elements are a set of visual and non-visual utility elements.
- - [Paper](https://elements.polymer-project.org/browse?package=paper-elements) - Paper elements are a set of visual elements that implement Google's Material Design.
- - [Google web components](https://elements.polymer-project.org/browse?package=google-web-components) 
- - [Gold](https://elements.polymer-project.org/browse?package=gold-elements) - The gold elements are built for e-commerce use-cases like checkout flows.
- - [Neon](https://elements.polymer-project.org/browse?package=neon-elements) - Neon elements implement special effects.
- - [Platinum](https://elements.polymer-project.org/browse?package=platinum-elements) - Elements to turn your web page into a true webapp, with push, offline, and more.
- - [Molecules](https://elements.polymer-project.org/browse?package=molecules) - Elements that wrap other javascript libraries.
+ - [Elements Catalog](https://www.webcomponents.org/collection/Polymer/elements) 
+ - [Iron](https://www.webcomponents.org/collection/PolymerElements/iron-elements) Iron elements are a set of visual and non-visual utility elements.
+ - [Paper](https://www.webcomponents.org/collection/PolymerElements/paper-elements) Paper elements are a set of visual elements that implement Google's Material Design.
+ - [Google web components](https://www.webcomponents.org/collection/GoogleWebComponents/google-web-components) 
+ - [Gold](https://www.webcomponents.org/collection/PolymerElements/gold-elements) The gold elements are built for e-commerce use-cases like checkout flows.
+ - [Platinum](https://www.webcomponents.org/collection/PolymerElements/platinum-elements) Elements to turn your web page into a true webapp, with push, offline, and more.
+ - [Molecules](https://www.webcomponents.org/collection/PolymerElements/molecules) Elements that wrap other javascript libraries.
+ - [App](https://www.webcomponents.org/collection/PolymerElements/app-elements) Elements that enable building full web apps out of modular custom elements.
+ - [Data](https://www.webcomponents.org/collection/PolymerElements/data-elements) A collection of data/storage related elements.
+ - [Layout](https://www.webcomponents.org/collection/PolymerElements/layout-elements) A collection of layout related elements.
+ - [[Obsolete] Neon](https://elements.polymer-project.org/browse?package=neon-elements) Neon elements implement special effects.
 
 ## Element Lists
 
+- [Webcomponents.org](https://webcomponents.org)
 - [Awesome Elements](https://github.com/StartPolymer/awesome-elements)
-- [Customelemets.io](http://customelements.io)
 - [Components Kitchen](http://component.kitchen)
 - [open-elements](http://open-elements.org) - Open for all elements working with polymer ^1.1
 
@@ -152,7 +155,6 @@
 - [Polygit](http://polygit.org/) - The Magic Server serves files directly from github (via `cdn.rawgit.com`) in a manner that is compatible with HTML Imports natural deduplication feature.
 - [Polydev](https://github.com/PolymerLabs/polydev) - DevTool extension.
 - [Polymer Ready](https://chrome.google.com/webstore/detail/polymer-ready/aaifiopbmiecbpladpjaoemohhfjcbdk) - Show an icon in the address bar when it detects some Polymer and Custom components.
-- [PolySearch](https://chrome.google.com/webstore/detail/polysearch/gchibjlnlbpgcfjpbebnlecbbjndiidj) - Search for Polymer elements directly from the Google Chrome's Omnibox. 
 - [Vulcanize](https://github.com/Polymer/vulcanize) - Build tool for HTMLimports and web components.
 - [Crisper](https://github.com/PolymerLabs/crisper) - Split inline scripts from an HTML file for CSP compliance.
 - [Snippets for Atom editor](https://atom.io/packages/polymer-snippets)
@@ -167,7 +169,6 @@
 
 ## Mixins
 
-- [Two-way databinding with Firebase](https://github.com/divshot/polymerfire)
 
 ## Theming / Styling
 
