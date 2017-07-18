@@ -2,8 +2,9 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/StartPolymer/awesome-polymer.svg?label=GitHub%20Stars)](https://github.com/StartPolymer/awesome-polymer)
 [![GitHub Watchers](https://img.shields.io/github/watchers/StartPolymer/awesome-polymer.svg?label=GitHub%20Watchers)](https://github.com/StartPolymer/awesome-polymer)
+[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://help.github.com/articles/about-pull-requests/)
 
-> A collection of awesome Polymer 1.x resources.
+> A collection of awesome Polymer resources.
 
 - [General resources](#general-resources)
 - [Polymer Communities](#polymer-communities)
@@ -31,6 +32,7 @@
 
 - [Official Site](https://www.polymer-project.org)
 - [Polymer Project repo](https://github.com/polymer/project) - Roadmap, Code of Conduct, How to Contribute, and more.
+- [Polymer Library repo](https://github.com/polymer/polymer)
 - [Polymer repos](https://github.com/polymer)
 - [Polymer Elements repos](https://github.com/polymerelements)
 - [Polymer Labs repos](https://github.com/polymerlabs)
@@ -39,36 +41,37 @@
 
 ## Polymer Communities
 
+- [Slack](http://polymer-slack.herokuapp.com)
 - [StackOverflow](http://stackoverflow.com/questions/tagged/polymer)
 - [GoogleGroup](https://groups.google.com/forum/#!forum/polymer-dev)
 - [Twitter](https://twitter.com/polymer)
 - [Google+ Profile](https://plus.google.com/+PolymerProject/)
 - [Google+ Community](https://plus.google.com/communities/115626364525706131031)
-- [Slack channel](http://polymer-slack.herokuapp.com)
 - [Chinese QQ Group](http://shang.qq.com/wpa/qunwpa?idkey=9df0a6fdd100374f1097330ad6327d4d3c40dc734aa8e7a841ae41cda5012980)
-
 
 ## Polymer News
 
-- [Polymer Blog](https://blog.polymer-project.org)
-- [Web Components Weekly](http://webcomponentsweekly.me)
+- [Polymer Blog](https://www.polymer-project.org/blog/)
+- [Web Components Community](https://www.webcomponents.org/community)
 
 ## Tutorials / Guides
 
 - [Style Guide](https://polymerelements.github.io/style-guide/)
 - [Testing Tips](https://medium.com/google-developer-experts/polymer-testing-tips-f217ba94a64) - 2016-01
-- [Unit Testing](https://medium.com/@granze/polymer-unit-testing-d6a69910dc31) - 2015-08
-- [Migration guide](https://www.polymer-project.org/1.0/docs/migration.html)
+- [Polymer 2.0 upgrade guide](https://www.polymer-project.org/2.0/docs/upgrade)
 - [Using elements](https://elements.polymer-project.org/guides/using-elements)
 - [Flexbox layout with iron-flex-layout](https://elements.polymer-project.org/guides/flex-layout)
-- [Using Neon Animations](https://elements.polymer-project.org/guides/using-neon-animations)
-- [Build a real-time to-do app](https://scotch.io/tutorials/build-a-real-time-polymer-to-do-app) - 2015-08
-- [Taming Polymer with SystemJS and TypeScript](http://blog.charto.net/typescript/Taming-Polymer-with-SystemJS-and-TypeScript-part-1/) - 2015-08
-- [Custom Elements That Work Anywhere](https://medium.com/dev-channel/custom-elements-that-work-anywhere-898e1dd2bc48#.m5ict2tce) - 2016-11
-- [Polymer Cheat Sheet](https://meowni.ca/posts/polymer-cheatsheet/) - 2016-12
+- [Polymer Cheat Sheets](https://github.com/StartPolymer/polymer-cheat-sheets)
 
 ## Articles
 
+- [Managing State in Polymer 2.0 - Beyond Parent / Child Binding](https://www.captaincodeman.com/2017/07/06/managing-state-in-polymer-20-beyond-parent-child-binding) - 2017-07
+- [Polymer anti-patterns: Prevent leaking internals between components](https://medium.com/collaborne-engineering/polymer-anti-patterns-prevent-leaking-internals-between-components-8b22d2b9cace) - 2017-07
+- [How to use Polymer with Webpack](https://medium.com/dev-channel/how-to-use-polymer-with-webpack-b41812d78b15) - 2017-07
+- [Don’t use jQuery plugins with Shadow DOM](https://medium.com/dev-channel/dont-use-jquery-plugins-with-shadow-dom-e161f1891511) - 2017-06
+- [Polymer 2.0 pitfalls: key bindings (Accessibility)](https://medium.com/collaborne-engineering/polymer-2-0-pitfalls-key-bindings-accessibility-75865bd7101c) 2017-06
+- [Polymer 2.0 + IE11: Don’t use <dom-bind> in your index.html](https://medium.com/collaborne-engineering/polymer-2-0-ie11-dont-use-dom-bind-in-your-index-html-846b0127acf5) - 2017-06
+- [Custom Elements That Work Anywhere](https://medium.com/dev-channel/custom-elements-that-work-anywhere-898e1dd2bc48#.m5ict2tce) - 2016-11
 - [Property Change Observers in Polymer](http://www.ericfeminella.com/blog/2016/01/06/property-change-observers-in-polymer/) - 2016-01
 - [Building web components using ES6 classes](https://www.polymer-project.org/1.0/articles/es6.html) - 2015-09
 - [Live-reload for Polymer Chrome Apps](http://codingwithgerwin.blogspot.it/2015/07/live-reload-for-polymer-chrome-apps.html) - 2015-06
