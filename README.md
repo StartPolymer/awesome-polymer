@@ -31,12 +31,13 @@
 
 ## General resources
 
-- [Official Site](https://www.polymer-project.org)
+- [Polymer Official Site](https://www.polymer-project.org)
 - [Polymer Project repo](https://github.com/polymer/project) - Roadmap, Code of Conduct, How to Contribute, and more.
 - [Polymer Library repo](https://github.com/polymer/polymer)
 - [Polymer repos](https://github.com/polymer)
 - [Polymer Elements repos](https://github.com/polymerelements)
 - [Polymer Labs repos](https://github.com/polymerlabs)
+- [Polymer Summit](https://summit.polymer-project.org)
 - [Built with Polymer](http://builtwithpolymer.org)
 - [Who's using Polymer?](https://github.com/Polymer/polymer/wiki/Who's-using-Polymer%3F)
 
@@ -48,6 +49,7 @@
 - [Twitter](https://twitter.com/polymer)
 - [Google+ Profile](https://plus.google.com/+PolymerProject/)
 - [Google+ Community](https://plus.google.com/communities/115626364525706131031)
+- [Reddit](https://www.reddit.com/r/PolymerJS/)
 - [Chinese QQ Group](http://shang.qq.com/wpa/qunwpa?idkey=9df0a6fdd100374f1097330ad6327d4d3c40dc734aa8e7a841ae41cda5012980)
 
 ## Polymer News
@@ -71,6 +73,8 @@
 
 ## Articles
 
+- [Thoughts on Polymer 3.0 after Polymer Summit 2017](https://www.captaincodeman.com/2017/09/08/thoughts-on-polymer-30-after-polymer-summit-2017) - 2017-09
+- [Project Structure for Using Redux with Polymer 2.0](https://www.captaincodeman.com/2017/07/19/project-structure-for-using-redux-with-polymer-20) - 2017-07
 - [Managing State in Polymer 2.0 - Beyond Parent / Child Binding](https://www.captaincodeman.com/2017/07/06/managing-state-in-polymer-20-beyond-parent-child-binding) - 2017-07
 - [Polymer anti-patterns: Prevent leaking internals between components](https://medium.com/collaborne-engineering/polymer-anti-patterns-prevent-leaking-internals-between-components-8b22d2b9cace) - 2017-07
 - [Don’t use jQuery plugins with Shadow DOM](https://medium.com/dev-channel/dont-use-jquery-plugins-with-shadow-dom-e161f1891511) - 2017-06
@@ -95,6 +99,7 @@
 ## Videos
 
 - [Polycasts](https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN)
+- [Polymer Summit 2017](https://www.youtube.com/playlist?list=PLNYkxOF6rcIDP0PqVaJxqNWwIgvoEPzJi) - 2017-08
 - [Polymer @ Google I/O 2017](https://www.youtube.com/playlist?list=PL_c6rbXV248du6m1VJABo32mP7sXWVb4m) - 2017-05
 - [Chrome and Web @ Google I/O 2017](https://www.youtube.com/playlist?list=PLNYkxOF6rcICniLJ2rfj0FexlA-9zmJJE) - 2017-05
 - [State of Polymer Jan '17 at This.JavaScript with Rob Dodson](https://www.youtube.com/watch?v=UUljsYOdt1Y) - 2017-02
@@ -210,7 +215,7 @@
 - [Monica Dinculescu](https://github.com/notwaldorf)
 - [Rob Dodson](https://plus.google.com/+RobDodson)
 - [Wendy Ginsberg](https://twitter.com/wmginsberg) [GitHub](https://github.com/wmginsberg) - Product Manager
-- [Polymer Summit Speakers](https://www.polymer-project.org/summit/speakers)
+- [Polymer Summit Speakers](https://summit.polymer-project.org/speakers)
 
 ## Other awesome resources
 
