@@ -1,5 +1,6 @@
 # Awesome Polymer
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub Stars](https://img.shields.io/github/stars/StartPolymer/awesome-polymer.svg?label=GitHub%20Stars)](https://github.com/StartPolymer/awesome-polymer)
 [![GitHub Watchers](https://img.shields.io/github/watchers/StartPolymer/awesome-polymer.svg?label=GitHub%20Watchers)](https://github.com/StartPolymer/awesome-polymer)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://help.github.com/articles/about-pull-requests/)
