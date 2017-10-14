@@ -20,7 +20,7 @@
 - [Videos](#videos)
 - [Boilerplates](#boilerplates)
 - [Tools](#tools)
-- [Editor plugins](#editor-plugins)
+- [Editor Plugins](#editor-plugins)
 - [Testing](#testing)
 - [Notable projects](#notable-projects)
 - [Polymer Authors](#polymer-authors)
@@ -163,7 +163,9 @@
 - [StartPolymer CDN](https://github.com/StartPolymer/cdn)
 - [On-the-fly Polymer style modules](https://github.com/PolymerLabs/polystyles)
 
-## Editor plugins
+## Editor Plugins
+
+[Polymer Editor Plugins @ Polymer Summit 2016](https://www.youtube.com/watch?v=guYHn0P8bKQ&feature=youtu.be&t=36m)
 
 ### Atom
 
