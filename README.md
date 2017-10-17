@@ -79,6 +79,10 @@
 - [Flexbox layout guide](https://www.webcomponents.org/element/PolymerElements/iron-flex-layout/page/GUIDE.md)
 - [Polymer Cheat Sheets](https://github.com/StartPolymer/polymer-cheat-sheets)
 
+### Motto Hashtags
+
+- [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform)
+
 ### Upgrade guides
 
 - [Upgrade guide from v1.x to v2.0](https://www.polymer-project.org/2.0/docs/upgrade)
