@@ -74,6 +74,7 @@
 
 - [Build your first Polymer 2 element](https://www.polymer-project.org/2.0/start/first-element/intro)
 - [Build your first Polymer 2 app](https://www.polymer-project.org/2.0/start/toolbox/set-up)
+- [The Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki)
 - [Document your elements](https://www.polymer-project.org/2.0/docs/tools/documentation)
 - [Flexbox layout guide](https://www.webcomponents.org/element/PolymerElements/iron-flex-layout/page/GUIDE.md)
 - [Polymer Cheat Sheets](https://github.com/StartPolymer/polymer-cheat-sheets)
