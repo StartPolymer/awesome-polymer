@@ -99,6 +99,15 @@
 - [Aurelia + Polymer integration](http://aurelia.io/hub.html#/doc/article/aurelia/framework/latest/integrating-with-polymer)
 - [How to use Polymer with Webpack](https://medium.com/dev-channel/how-to-use-polymer-with-webpack-b41812d78b15) - 2017-07
 
+### GraphQL
+
+- [Polymer Apollo Integration](https://github.com/aruntk/polymer-apollo)
+
+### Redux
+
+- [How to use Redux in Polymer -- Polycasts #61](https://www.youtube.com/watch?v=PahsgJn0sgU)
+- [Project Structure for Using Redux with Polymer 2.0](https://www.captaincodeman.com/2017/07/19/project-structure-for-using-redux-with-polymer-20)
+
 ## Articles
 
 - [Thoughts on Polymer 3.0 after Polymer Summit 2017](https://www.captaincodeman.com/2017/09/08/thoughts-on-polymer-30-after-polymer-summit-2017) - 2017-09
