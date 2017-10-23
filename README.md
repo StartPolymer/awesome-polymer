@@ -13,8 +13,8 @@
 - [Polymer Codelabs](#polymer-codelabs)
 - [Directories](#directories)
 - [Elements](#elements)
-- [Mixins / Behaviors](#mixins-behaviors)
-- [Tutorials / Guides](#tutorials-guides)
+- [Mixins / Behaviors](#mixins--behaviors)
+- [Tutorials / Guides](#tutorials--guides)
 - [Case Studies](#case-studies)
 - [Integration with other frameworks](#integration-with-other-frameworks)
 - [Articles](#articles)
@@ -97,6 +97,7 @@
 
 ## Case Studies
 
+- [Polymer @ YouTube - The YouTube site is comprised of over 400 web components, developed by dozens of teams.](https://www.youtube.com/watch?v=tNulrEbTQf8) - 2017-08
 - [Santa Tracker as a PWA](https://developers.google.com/web/showcase/2017/santa) - 2017-03
 - [NET-A-PORTER](https://developers.google.com/web/showcase/2016/net-a-porter) - 2016-04
 - [Creating a Lightsaber with Polymer](https://developers.google.com/web/showcase/case-study/lightsaber) - 2015-12
