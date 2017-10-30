@@ -38,6 +38,11 @@
 - [Polymer Summit](https://summit.polymer-project.org)
 - [Chrome Dev Summit](https://developer.chrome.com/devsummit/)
 
+### Hashtags
+
+- [#UseThePlatform](https://www.polymer-project.org/blog/2016-05-26-IO-2016-Recap)
+- [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform)
+
 ## Polymer Communities
 
 - [Slack](http://polymer-slack.herokuapp.com)
@@ -48,6 +53,7 @@
 - [Google+ Community](https://plus.google.com/communities/115626364525706131031)
 - [Reddit](https://www.reddit.com/r/PolymerJS/)
 - [Chinese QQ Group](http://shang.qq.com/wpa/qunwpa?idkey=9df0a6fdd100374f1097330ad6327d4d3c40dc734aa8e7a841ae41cda5012980)
+- [Polymeristi](https://github.com/Polymeristi/readme) - Czech & Slovak Polymer community.
 
 ## Polymer News
 
@@ -85,15 +91,12 @@
 - [Flexbox layout guide](https://www.webcomponents.org/element/PolymerElements/iron-flex-layout/page/GUIDE.md)
 - [Polymer Cheat Sheets](https://github.com/StartPolymer/polymer-cheat-sheets)
 
-### Hashtags
-
-- [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform)
-
 ### Style Guides
 
 - [Document your elements](https://www.polymer-project.org/2.0/docs/tools/documentation)
 - [Chromium Web Development Style Guide](https://chromium.googlesource.com/chromium/src/+/master/styleguide/web/web.md)
 - [Polymer Style Guide](https://github.com/ageapps/polymer-style-guide)
+- [FamilySearch Polymer Style guide](https://github.com/fs-webdev/polymer)
 
 ### Upgrade Guides
 
