@@ -82,15 +82,20 @@
 - [Build your first Polymer 2 element](https://www.polymer-project.org/2.0/start/first-element/intro)
 - [Build your first Polymer 2 app](https://www.polymer-project.org/2.0/start/toolbox/set-up)
 - [The Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki)
-- [Document your elements](https://www.polymer-project.org/2.0/docs/tools/documentation)
 - [Flexbox layout guide](https://www.webcomponents.org/element/PolymerElements/iron-flex-layout/page/GUIDE.md)
 - [Polymer Cheat Sheets](https://github.com/StartPolymer/polymer-cheat-sheets)
 
-### Motto hashtags
+### Hashtags
 
 - [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform)
 
-### Upgrade guides
+### Style Guides
+
+- [Document your elements](https://www.polymer-project.org/2.0/docs/tools/documentation)
+- [Chromium Web Development Style Guide](https://chromium.googlesource.com/chromium/src/+/master/styleguide/web/web.md)
+- [Polymer Style Guide](https://github.com/ageapps/polymer-style-guide)
+
+### Upgrade Guides
 
 - [Upgrade guide from v1.x to v2.0](https://www.polymer-project.org/2.0/docs/upgrade)
 - [Migration guide from v0.5 to v1.0](https://www.polymer-project.org/1.0/docs/migration)
