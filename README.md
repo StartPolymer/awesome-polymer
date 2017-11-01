@@ -123,11 +123,16 @@
 
 - [How to use Redux in Polymer -- Polycasts #61](https://www.youtube.com/watch?v=PahsgJn0sgU)
 - [Project Structure for Using Redux with Polymer 2.0](https://www.captaincodeman.com/2017/07/19/project-structure-for-using-redux-with-polymer-20)
+- [Why not to store objects in Redux](https://medium.com/collaborne-engineering/why-not-to-store-objects-in-redux-7f41243020fc) - 2017-07
 
 ## Articles
 
 - [Thoughts on Polymer 3.0 after Polymer Summit 2017](https://www.captaincodeman.com/2017/09/08/thoughts-on-polymer-30-after-polymer-summit-2017) - 2017-09
+- [Building Polymer apps with gulp](https://medium.com/collaborne-engineering/building-polymer-app-with-gulp-dee266d348df) - 2017-08
+- [Localize Polymer apps with translation platform](https://medium.com/collaborne-engineering/localize-polymer-apps-with-translation-platform-46a2acb9373b) - 2017-08
+- [Shadow DOM: fast and encapsulated styles](https://meowni.ca/posts/shadow-dom/) - 2017-08
 - [Polymer + Cordova: Can’t access device images](https://medium.com/collaborne-engineering/polymer-cordova-cant-access-device-images-a2059fb979ab) - 2017-08
+- [Polymer anti-patterns: Prevent leaking internals between components](https://medium.com/collaborne-engineering/polymer-anti-patterns-prevent-leaking-internals-between-components-8b22d2b9cace) - 2017-07
 - [Project Structure for Using Redux with Polymer 2.0](https://www.captaincodeman.com/2017/07/19/project-structure-for-using-redux-with-polymer-20) - 2017-07
 - [Managing State in Polymer 2.0 - Beyond Parent / Child Binding](https://www.captaincodeman.com/2017/07/06/managing-state-in-polymer-20-beyond-parent-child-binding) - 2017-07
 - [Polymer anti-patterns: Prevent leaking internals between components](https://medium.com/collaborne-engineering/polymer-anti-patterns-prevent-leaking-internals-between-components-8b22d2b9cace) - 2017-07
