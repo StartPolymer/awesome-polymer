@@ -40,7 +40,7 @@
 
 ### Hashtags
 
-- [#UseThePlatform](https://www.polymer-project.org/blog/2016-05-26-IO-2016-Recap)
+- [#UseThePlatform](https://www.polymer-project.org/about)
 - [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform)
 
 ## Polymer Communities
