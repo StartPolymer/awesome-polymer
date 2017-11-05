@@ -10,7 +10,7 @@
 - [General resources](#general-resources)
 - [Polymer Communities](#polymer-communities)
 - [Polymer News](#polymer-news)
-- [Polymer Codelabs](#polymer-codelabs)
+- [Polymer Codelabs / Playgrounds](#polymer-codelabs--playgrounds)
 - [Directories](#directories)
 - [Elements](#elements)
 - [Mixins / Behaviors](#mixins--behaviors)
@@ -61,11 +61,12 @@
 - [Web Components Community](https://www.webcomponents.org/community)
 - [Web Components Podcasts](https://www.webcomponents.org/community/podcasts)
 
-## Polymer Codelabs
+## Polymer Codelabs / Playgrounds
 
 - [Polymer Summit 2017 Codelabs](https://codelabs.developers.google.com/polymer-summit-2017)
 - [Polymer Summit 2016 Codelabs](https://codelabs.developers.google.com/polymer-summit-2016)
 - [Web Codelabs](https://codelabs.developers.google.com/?cat=Web)
+- [StartPolymer Playgrounds](https://github.com/StartPolymer/playgrounds)
 
 ## Directories
 
