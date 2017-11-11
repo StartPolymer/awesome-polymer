@@ -14,6 +14,7 @@
 - [Directories](#directories)
 - [Elements](#elements)
 - [Mixins / Behaviors](#mixins--behaviors)
+- [Patterns](#patterns)
 - [Tutorials / Guides](#tutorials--guides)
 - [Case Studies](#case-studies)
 - [Integration with other frameworks](#integration-with-other-frameworks)
@@ -84,6 +85,13 @@
 - [Mixins](https://www.webcomponents.org/search/mixin)
 - [Behaviors](https://www.webcomponents.org/search/behavior)
 
+## Patterns
+
+- [PRPL Pattern](https://www.polymer-project.org/2.0/toolbox/prpl)
+  - [End to End Apps with Polymer (Polymer Summit 2017)](https://www.youtube.com/watch?v=0A-2BhEZiM4)
+- [UniFlow - uni-directional data flow + maintains state of entire application](https://github.com/google/uniflow-polymer)
+  - [Difference between UniFlow and Redux](https://github.com/google/uniflow-polymer/issues/9)
+
 ## Tutorials / Guides
 
 - [Build your first Polymer 2 element](https://www.polymer-project.org/2.0/start/first-element/intro)
@@ -133,7 +141,6 @@
 - [Localize Polymer apps with translation platform](https://medium.com/collaborne-engineering/localize-polymer-apps-with-translation-platform-46a2acb9373b) - 2017-08
 - [Shadow DOM: fast and encapsulated styles](https://meowni.ca/posts/shadow-dom/) - 2017-08
 - [Polymer + Cordova: Can’t access device images](https://medium.com/collaborne-engineering/polymer-cordova-cant-access-device-images-a2059fb979ab) - 2017-08
-- [Polymer anti-patterns: Prevent leaking internals between components](https://medium.com/collaborne-engineering/polymer-anti-patterns-prevent-leaking-internals-between-components-8b22d2b9cace) - 2017-07
 - [Project Structure for Using Redux with Polymer 2.0](https://www.captaincodeman.com/2017/07/19/project-structure-for-using-redux-with-polymer-20) - 2017-07
 - [Managing State in Polymer 2.0 - Beyond Parent / Child Binding](https://www.captaincodeman.com/2017/07/06/managing-state-in-polymer-20-beyond-parent-child-binding) - 2017-07
 - [Polymer anti-patterns: Prevent leaking internals between components](https://medium.com/collaborne-engineering/polymer-anti-patterns-prevent-leaking-internals-between-components-8b22d2b9cace) - 2017-07
