@@ -91,6 +91,15 @@
   - [End to End Apps with Polymer (Polymer Summit 2017)](https://www.youtube.com/watch?v=0A-2BhEZiM4)
 - [UniFlow - uni-directional data flow + maintains state of entire application](https://github.com/google/uniflow-polymer)
   - [Difference between UniFlow and Redux](https://github.com/google/uniflow-polymer/issues/9)
+  - [ToDo MVC Demo](https://github.com/google/uniflow-polymer/tree/master/todomvc)
+  - [UniFlow Polymer Starter Kit](https://github.com/LostInBrittany/uniflow-polymer-starter-kit)
+  - Answers from author @militeev on Slack
+    - With UniFlow you move all your complex logic to action dispatchers, leaving to the visual elements only tasks of rendering the data and reacting to user events. This simplifies things a lot, especially when it comes to unit testing.
+    - Answering the question if this is another alternative to Redux, the answer is probably yes. We started the project in early 2016, and Flux and Redux ideas definitely influenced it.
+    - I would say it's implementation of basic principles of Flux/Redux + convenience methods for views.
+    - Yes, it was developed as part of an internal project at Google, then we separated it out, documented and open-sourced.
+    - From my experience, patterns are easier to follow if they're implemented in the code. For small projects it's not critical. When you have large group of people working on a project, chances are that different people will attempt doing same thing in various different ways. Having library and guidelines how to use it helps in this case.
+    - Yes, you can easily implement all these concepts yourself, customizing the way you want. The advantage of having the library is that someone already thought about different scenarios that may occur, coded those and unit-tested.
 
 ## Tutorials / Guides
 
