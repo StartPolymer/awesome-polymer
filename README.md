@@ -15,6 +15,7 @@
 - [Elements](#elements)
 - [Mixins / Behaviors](#mixins--behaviors)
 - [Patterns](#patterns)
+- [Polymer is SEO-friendly](polymer-is-seo-friendly)
 - [Tutorials / Guides](#tutorials--guides)
 - [Case Studies](#case-studies)
 - [Integration with other frameworks](#integration-with-other-frameworks)
@@ -100,6 +101,16 @@
     - Yes, it was developed as part of an internal project at Google, then we separated it out, documented and open-sourced.
     - From my experience, patterns are easier to follow if they're implemented in the code. For small projects it's not critical. When you have large group of people working on a project, chances are that different people will attempt doing same thing in various different ways. Having library and guidelines how to use it helps in this case.
     - Yes, you can easily implement all these concepts yourself, customizing the way you want. The advantage of having the library is that someone already thought about different scenarios that may occur, coded those and unit-tested.
+
+## Polymer is SEO-friendly
+
+Polymer Project develops [PRPL server](https://github.com/Polymer/prpl-server-node) using [Rendertron](https://github.com/GoogleChrome/rendertron) server which runs [Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome) to render and serialize web pages for search bots, so all the content is contained in one network request.
+
+- [PRPL server - Rendering for Bots](https://github.com/Polymer/prpl-server-node#rendering-for-bots)
+- [Solving SEO with Headless Chrome (Polymer Summit 2017)](https://www.youtube.com/watch?v=ydThUDlBDfc&index=21&list=PLNYkxOF6rcIDP0PqVaJxqNWwIgvoEPzJi)
+- [Puppeteer Playground](https://try-puppeteer.appspot.com)
+- [Rendertron - headless rendering service](https://render-tron.appspot.com)
+- [StartPolymer Playground #1 is simple SEO-friendly template with fragment links.](https://github.com/StartPolymer/playgrounds)
 
 ## Tutorials / Guides
 
@@ -214,6 +225,7 @@
 - [Polymer Magic Server](http://polygit.org) - The Magic Server serves files directly from github (via `cdn.rawgit.com`) in a manner that is compatible with HTML Imports natural deduplication feature.
 - [StartPolymer CDN](https://github.com/StartPolymer/cdn)
 - [On-the-fly Polymer style modules](https://github.com/PolymerLabs/polystyles)
+- [StartPolymer Toolbox](https://github.com/StartPolymer/toolbox) - Hot Reloading and more tools...
 
 ## Editor Plugins
 
