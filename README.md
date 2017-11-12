@@ -15,7 +15,7 @@
 - [Elements](#elements)
 - [Mixins / Behaviors](#mixins--behaviors)
 - [Patterns](#patterns)
-- [Polymer is SEO-friendly](polymer-is-seo-friendly)
+- [Polymer is SEO-friendly](#polymer-is-seo-friendly)
 - [Tutorials / Guides](#tutorials--guides)
 - [Case Studies](#case-studies)
 - [Integration with other frameworks](#integration-with-other-frameworks)
