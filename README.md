@@ -88,8 +88,18 @@
 
 ## Patterns
 
-- [PRPL Pattern](https://www.polymer-project.org/2.0/toolbox/prpl)
-  - [End to End Apps with Polymer (Polymer Summit 2017)](https://www.youtube.com/watch?v=0A-2BhEZiM4)
+### Managing State
+
+#### Mediator Pattern
+
+- [Thinking in Polymer (The Polymer Summit 2015)](https://www.youtube.com/watch?v=ZDjiUmx51y8&index=3&list=PLNYkxOF6rcICdISJclfQhj2S8QZGjXV8J)
+
+#### Global Mediator Pattern
+
+- [Mediator Pattern vs Global Mediator Pattern](https://www.youtube.com/watch?v=Wu2GCRkDecI&feature=youtu.be&t=22m40s)
+
+##### UniFlow
+
 - [UniFlow - uni-directional data flow + maintains state of entire application](https://github.com/google/uniflow-polymer)
   - [Difference between UniFlow and Redux](https://github.com/google/uniflow-polymer/issues/9)
   - [ToDo MVC Demo](https://github.com/google/uniflow-polymer/tree/master/todomvc)
@@ -101,6 +111,17 @@
     - Yes, it was developed as part of an internal project at Google, then we separated it out, documented and open-sourced.
     - From my experience, patterns are easier to follow if they're implemented in the code. For small projects it's not critical. When you have large group of people working on a project, chances are that different people will attempt doing same thing in various different ways. Having library and guidelines how to use it helps in this case.
     - Yes, you can easily implement all these concepts yourself, customizing the way you want. The advantage of having the library is that someone already thought about different scenarios that may occur, coded those and unit-tested.
+
+##### Redux
+
+- [How to use Redux in Polymer -- Polycasts #61](https://www.youtube.com/watch?v=PahsgJn0sgU)
+- [Project Structure for Using Redux with Polymer 2.0](https://www.captaincodeman.com/2017/07/19/project-structure-for-using-redux-with-polymer-20)
+- [Why not to store objects in Redux](https://medium.com/collaborne-engineering/why-not-to-store-objects-in-redux-7f41243020fc) - 2017-07
+
+### PRPL Pattern as alternative for a benefits of server-side rendering
+
+- [PRPL Pattern](https://www.polymer-project.org/2.0/toolbox/prpl)
+- [End to End Apps with Polymer (Polymer Summit 2017)](https://www.youtube.com/watch?v=0A-2BhEZiM4)
 
 ## Polymer is SEO-friendly
 
@@ -147,12 +168,6 @@ Polymer Project develops [PRPL server](https://github.com/Polymer/prpl-server-no
 ### GraphQL
 
 - [Polymer Apollo Integration](https://github.com/aruntk/polymer-apollo)
-
-### Redux
-
-- [How to use Redux in Polymer -- Polycasts #61](https://www.youtube.com/watch?v=PahsgJn0sgU)
-- [Project Structure for Using Redux with Polymer 2.0](https://www.captaincodeman.com/2017/07/19/project-structure-for-using-redux-with-polymer-20)
-- [Why not to store objects in Redux](https://medium.com/collaborne-engineering/why-not-to-store-objects-in-redux-7f41243020fc) - 2017-07
 
 ## Articles
 
