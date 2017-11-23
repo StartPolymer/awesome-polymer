@@ -118,10 +118,22 @@
 - [Project Structure for Using Redux with Polymer 2.0](https://www.captaincodeman.com/2017/07/19/project-structure-for-using-redux-with-polymer-20)
 - [Why not to store objects in Redux](https://medium.com/collaborne-engineering/why-not-to-store-objects-in-redux-7f41243020fc) - 2017-07
 
-### PRPL Pattern as alternative for a benefits of server-side rendering
+### PRPL Pattern
 
-- [PRPL Pattern](https://www.polymer-project.org/2.0/toolbox/prpl)
+[PRPL Pattern](https://www.polymer-project.org/2.0/toolbox/prpl) is alternative for a benefits of server-side rendering.
+
 - [End to End Apps with Polymer (Polymer Summit 2017)](https://www.youtube.com/watch?v=0A-2BhEZiM4)
+
+#### PRPL Servers
+
+- [prpl-server-node](https://github.com/Polymer/prpl-server-node)
+- [prpl-server-go](https://github.com/CaptainCodeman/prpl-server-go)
+
+##### Features
+
+- [Differential Serving](https://github.com/Polymer/prpl-server-node#differential-serving)
+- [HTTP/2 Server Push](https://github.com/Polymer/prpl-server-node#http2-server-push)
+- [Rendering for Bots (SEO, Open Graph)](https://github.com/Polymer/prpl-server-node#rendering-for-bots)
 
 ## Polymer is SEO-friendly
 
