@@ -14,6 +14,7 @@
 - [Directories](#directories)
 - [Elements](#elements)
 - [Mixins / Behaviors](#mixins--behaviors)
+- [Libraries](#libraries)
 - [Patterns](#patterns)
 - [Polymer is SEO-friendly](#polymer-is-seo-friendly)
 - [Tutorials / Guides](#tutorials--guides)
@@ -85,6 +86,12 @@
 
 - [Mixins](https://www.webcomponents.org/search/mixin)
 - [Behaviors](https://www.webcomponents.org/search/behavior)
+
+## Libraries
+
+### TypeScript
+
+- [TypeScript decorators for Polymer 2.0](https://github.com/Polymer/polymer-decorators)
 
 ## Patterns
 
