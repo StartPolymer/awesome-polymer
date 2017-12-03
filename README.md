@@ -201,6 +201,7 @@ Polymer Project develops [PRPL server](https://github.com/Polymer/prpl-server-no
 - [Don’t use jQuery plugins with Shadow DOM](https://medium.com/dev-channel/dont-use-jquery-plugins-with-shadow-dom-e161f1891511) - 2017-06
 - [Polymer 2.0 pitfalls: key bindings (Accessibility)](https://medium.com/collaborne-engineering/polymer-2-0-pitfalls-key-bindings-accessibility-75865bd7101c) 2017-06
 - [Polymer 2.0 + IE11: Don’t use <dom-bind> in your index.html](https://medium.com/collaborne-engineering/polymer-2-0-ie11-dont-use-dom-bind-in-your-index-html-846b0127acf5) - 2017-06
+- [Polymer Tips: Prevent Inactive Views Responding To Other Route Changes](https://www.captaincodeman.com/2017/05/18/polymer-tips-prevent-inactive-views-responding-to-other-route-changes) - 2017-05
 - [Custom Elements That Work Anywhere](https://medium.com/dev-channel/custom-elements-that-work-anywhere-898e1dd2bc48#.m5ict2tce) - 2016-11
 - [Property Change Observers in Polymer](http://www.ericfeminella.com/blog/2016/01/06/property-change-observers-in-polymer/) - 2016-01
 - [Building web components using ES6 classes](https://www.polymer-project.org/1.0/articles/es6.html) - 2015-09
