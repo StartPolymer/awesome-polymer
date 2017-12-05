@@ -219,6 +219,7 @@ Polymer Project develops [PRPL server](https://github.com/Polymer/prpl-server-no
 - [Polycasts](https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN)
 - [Building a Polymer 2 Progressive Web App with the Polymer CLI](https://www.youtube.com/watch?v=e_7i9evLJpw) - 2017-07
 - [State of Polymer Jan '17 at This.JavaScript with Rob Dodson](https://www.youtube.com/watch?v=UUljsYOdt1Y) - 2017-02
+- [Make your Polymer web-app Progressive](https://slideslive.cz/38899314/make-your-polymer-webapp-progressive) - 2016-11
 - [Learn Polymer 1.0](https://www.youtube.com/playlist?list=PLPaj_o9gjMYll0sSb47TrzQCjIo5iqQZm) - 2015
 - [Level up Tutorials](https://www.youtube.com/playlist?list=PLLnpHn493BHGhoGAb2PRKzv4Zw3QoatK-) - 2015
 
