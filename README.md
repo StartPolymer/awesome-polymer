@@ -152,6 +152,10 @@ Polymer Project develops [PRPL server](https://github.com/Polymer/prpl-server-no
 - [Rendertron - headless rendering service](https://render-tron.appspot.com)
 - [StartPolymer Playground #1 is simple SEO-friendly template with fragment links.](https://github.com/StartPolymer/playgrounds)
 
+### Searchbots
+
+- [Polymer 2 and Googlebot](https://medium.com/dev-channel/polymer-2-and-googlebot-2ad50c5727dd) - 2017-12
+
 ## Tutorials / Guides
 
 - [Build your first Polymer 2 element](https://www.polymer-project.org/2.0/start/first-element/intro)
@@ -190,6 +194,7 @@ Polymer Project develops [PRPL server](https://github.com/Polymer/prpl-server-no
 
 ## Articles
 
+- [Make Polymer 2.0 Web Components work on IE11 and Edge](https://medium.com/@andrejsabrickis/make-polymer-2-0-web-components-work-on-ie11-and-edge-8d82eb1b9e5e) - 2017-12
 - [Thoughts on Polymer 3.0 after Polymer Summit 2017](https://www.captaincodeman.com/2017/09/08/thoughts-on-polymer-30-after-polymer-summit-2017) - 2017-09
 - [Building Polymer apps with gulp](https://medium.com/collaborne-engineering/building-polymer-app-with-gulp-dee266d348df) - 2017-08
 - [Localize Polymer apps with translation platform](https://medium.com/collaborne-engineering/localize-polymer-apps-with-translation-platform-46a2acb9373b) - 2017-08
