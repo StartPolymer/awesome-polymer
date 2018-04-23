@@ -284,6 +284,7 @@ Polymer Project develops [PRPL server](https://github.com/Polymer/prpl-server-no
 - [Polymer Snippets](https://marketplace.visualstudio.com/items?itemName=chimon2000.polymer-snippets)
 - [Polymer 2 Snippets](https://marketplace.visualstudio.com/items?itemName=justinribeiro.Polymer2Snippets)
 - [Polymer Syntax](https://marketplace.visualstudio.com/items?itemName=jonwolfe.language-polymer)
+- [lit-html](https://marketplace.visualstudio.com/items?itemName=bierner.lit-html)
 
 ### Sublime Text
 
