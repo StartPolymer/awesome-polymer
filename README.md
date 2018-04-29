@@ -320,10 +320,7 @@ Polymer Project develops [PRPL server](https://github.com/Polymer/prpl-server-no
 
 ## Polymer Authors
 
-- [Eric Bidelman](https://plus.google.com/+EricBidelman)
-- [Monica Dinculescu](https://github.com/notwaldorf)
-- [Rob Dodson](https://plus.google.com/+RobDodson) [slides](https://speakerdeck.com/robdodson)
-- [Wendy Ginsberg](https://twitter.com/wmginsberg) [GitHub](https://github.com/wmginsberg) - Product Manager
+- [GitHub People](https://github.com/orgs/Polymer/people)
 - [Polymer Summit Speakers](https://summit.polymer-project.org/speakers)
 
 ## Other awesome resources
