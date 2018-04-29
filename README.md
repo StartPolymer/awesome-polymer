@@ -9,7 +9,7 @@
 
 - [General resources](#general-resources)
 - [Polymer Communities](#polymer-communities)
-- [Polymer News](#polymer-news)
+- [Polymer & Web Components Blogs](#polymer--web-components-blogs)
 - [Polymer Codelabs / Playgrounds](#polymer-codelabs--playgrounds)
 - [Directories](#directories)
 - [Elements](#elements)
@@ -58,17 +58,19 @@
 - [Chinese QQ Group](http://shang.qq.com/wpa/qunwpa?idkey=9df0a6fdd100374f1097330ad6327d4d3c40dc734aa8e7a841ae41cda5012980)
 - [Polymeristi](https://github.com/Polymeristi/readme) - Czech & Slovak Polymer community.
 
-## Polymer News
+## Polymer & Web Components Blogs
 
 - [Polymer Blog](https://www.polymer-project.org/blog/)
 - [Web Components Community](https://www.webcomponents.org/community)
-- [Web Components Podcasts](https://www.webcomponents.org/community/podcasts)
+- [Chromium Dev Channel](https://medium.com/dev-channel)
+- [Captain Codeman](https://www.captaincodeman.com/tag/polymer)
+- [Collaborne Engineering](https://medium.com/collaborne-engineering/tagged/polymer)
 
 ## Polymer Codelabs / Playgrounds
 
 - [Polymer Summit 2017 Codelabs](https://codelabs.developers.google.com/polymer-summit-2017)
 - [Polymer Summit 2016 Codelabs](https://codelabs.developers.google.com/polymer-summit-2016)
-- [Web Codelabs](https://codelabs.developers.google.com/?cat=Web)
+- [Google Developers Web Codelabs](https://codelabs.developers.google.com/?cat=Web)
 - [StartPolymer Playgrounds](https://github.com/StartPolymer/playgrounds)
 
 ## Directories
