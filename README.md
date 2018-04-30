@@ -196,6 +196,8 @@ Polymer Project develops [PRPL server](https://github.com/Polymer/prpl-server-no
 
 ## Articles
 
+- [Learn Polymer - From Beginner to Expert](https://medium.com/collaborne-engineering/learn-polymer-from-beginner-to-expert-6581be9b6982) - 2018-04
+- [How to combine Web Components with Storybook](https://medium.com/@stijn.koopal/how-to-combine-web-components-with-storybook-a-match-made-in-heaven-9d9939eedc76) - 2018-03
 - [Make Polymer 2.0 Web Components work on IE11 and Edge](https://medium.com/@andrejsabrickis/make-polymer-2-0-web-components-work-on-ie11-and-edge-8d82eb1b9e5e) - 2017-12
 - [Thoughts on Polymer 3.0 after Polymer Summit 2017](https://www.captaincodeman.com/2017/09/08/thoughts-on-polymer-30-after-polymer-summit-2017) - 2017-09
 - [Building Polymer apps with gulp](https://medium.com/collaborne-engineering/building-polymer-app-with-gulp-dee266d348df) - 2017-08
