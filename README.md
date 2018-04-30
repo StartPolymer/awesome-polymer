@@ -85,6 +85,12 @@
 - [StartPolymer Elements](https://www.webcomponents.org/collection/StartPolymer/s-elements)
 - [Vaadin Core Elements](https://github.com/vaadin/vaadin-core-elements) - Themable UI elements (Material and Valo themes).
 
+### Routing
+
+- [\<app-route\>](https://github.com/PolymerElements/app-route) Declarative, self-describing routing for a web app.
+  - [Encapsulated Routing with Elements](https://www.polymer-project.org/blog/routing.html)
+- [\<polymer-ui-router\>](https://github.com/ergo/polymer-ui-router) - UI Router wrapper for Polymer 2.x+
+
 ## Mixins / Behaviors
 
 - [Mixins](https://www.webcomponents.org/search/mixin)
