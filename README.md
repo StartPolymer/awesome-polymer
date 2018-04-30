@@ -313,22 +313,19 @@ Polymer Project develops [PRPL server](https://github.com/Polymer/prpl-server-no
 - [iron-test-helpers](https://github.com/PolymerElements/iron-test-helpers) - Utility classes to make testing easier.
 - [Testing Tips](https://medium.com/google-developer-experts/polymer-testing-tips-f217ba94a64) - 2016-01
 
-## Notable projects 
+## Notable projects
+
+- [Polymon](https://github.com/PolymerLabs/polymon) - Seek out Polymer team members and capture them as Polymon!
+- [Cheese](https://github.com/PolymerLabs/cheese) - Simple web app that lets you take a selfie and automatically places stickers on the face.
+- [PWA for Polymer Summit 2017](https://github.com/googlearchive/summit-2017)
+- [Guitar Tuner](https://github.com/GoogleChrome/guitar-tuner)
+- [Padlock](https://github.com/MaKleSoft/padlock) - A minimalist open source password manager.
+- [TimeDoser](https://github.com/DaniGuardiola/TimeDoser/) - Pomodoro Timer
+
+### Lists
 
 - [Polymer Projects](https://github.com/abdonrd/PolymerProjects) - List of websites and apps built with Polymer.
-- [Built with Polymer](http://builtwithpolymer.org)
 - [Who's using Polymer?](https://github.com/Polymer/polymer/wiki/Who's-using-Polymer%3F)
-- [Gold Elements Demo](https://github.com/notwaldorf/polymer-gold-elements-demo)
-- [Google Analytics Dashboard](https://ga-dev-tools.appspot.com/polymer-elements/)
-- [Google I/O 2015](https://github.com/GoogleChrome/ioweb2015) - v0.5
-- [Guitar Tuner](https://github.com/GoogleChrome/guitar-tuner)
-- [Chat Demo](https://github.com/kevinpschaaf/chat-view-paper)
-- [Padlock](https://github.com/MaKleSoft/padlock) - A minimalist open source password manager.
-- [Scan Chrome OS App](https://github.com/beaufortfrancois/scan-chrome-app)
-- [SFTP File System Chrome OS App](https://github.com/yoichiro/chromeos-filesystem-sftp)
-- [Snapdrop](https://snapdrop.net) - The easiest way to transfer files across devices.
-- [TimeDoser](https://github.com/DaniGuardiola/TimeDoser/) - Pomodoro Timer
-- [Voice Memos](https://aerotwist.com/blog/voice-memos/)
 
 ## Polymer Authors
 
