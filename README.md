@@ -92,6 +92,14 @@
 
 ## Libraries
 
+### lit-html
+
+- [lit-html](https://github.com/Polymer/lit-html) - HTML templates with JS template literals, and efficiently render and re-render those templates to DOM.
+  - [Benefits over HTML templates](https://github.com/Polymer/lit-html#benefits-over-html-templates)
+  - [Benefits over JSX](https://github.com/Polymer/lit-html#benefits-over-jsx)
+- [lit-element](https://github.com/PolymerLabs/lit-element) - Base class for creating custom elements using Polymer and lit-html.
+- [fit-html](https://github.com/Festify/fit-html) - 3KB web components + lit-html + redux library without bloat.
+
 ### TypeScript
 
 - [TypeScript decorators for Polymer 2.0](https://github.com/Polymer/polymer-decorators)
