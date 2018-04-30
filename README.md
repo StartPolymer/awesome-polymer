@@ -80,6 +80,7 @@
 ## Elements
 
 - [Polymer Catalog](https://www.webcomponents.org/collection/Polymer/elements)
+- [Material Web Components](https://github.com/material-components/material-components-web-components)
 - [Awesome Elements](https://www.webcomponents.org/collection/StartPolymer/awesome-elements)
 - [StartPolymer Elements](https://www.webcomponents.org/collection/StartPolymer/s-elements)
 - [Vaadin Core Elements](https://github.com/vaadin/vaadin-core-elements) - Themable UI elements (Material and Valo themes).
