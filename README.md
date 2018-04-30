@@ -92,6 +92,8 @@
 
 ## Libraries
 
+- [pwa-helpers](https://github.com/PolymerLabs/pwa-helpers) - Small helper methods or mixins to help you build web apps.
+
 ### lit-html
 
 - [lit-html](https://github.com/Polymer/lit-html) - HTML templates with JS template literals, and efficiently render and re-render those templates to DOM.
