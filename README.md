@@ -273,7 +273,7 @@ Polymer Project develops [PRPL server](https://github.com/Polymer/prpl-server-no
 
 ## Tools
 
-- [Polymer CLI](https://github.com/Polymer/polymer-cli) - Command-line tool for initialization, serving, linting, testing, building, azalyzing.
+- [Polymer CLI](https://github.com/Polymer/tools/tree/master/packages/cli) - The command-line tool for Polymer projects and Web Components.
 - [Polymer Chrome DevTools Extension](https://github.com/PolymerLabs/polydev)
 - [Polymer Ready Chrome Extension](https://chrome.google.com/webstore/detail/polymer-ready/aaifiopbmiecbpladpjaoemohhfjcbdk) - Show an icon in the address bar when it detects some Polymer and Custom components.
 - [Polymer Iconset Generator](https://poly-icon.appspot.com)
@@ -308,7 +308,7 @@ Polymer Project develops [PRPL server](https://github.com/Polymer/prpl-server-no
 
 ## Testing
 
-- [Web components tester](https://github.com/Polymer/web-component-tester) - Makes testing your web components a breeze!
+- [Web components tester](https://github.com/Polymer/tools/tree/master/packages/web-component-tester) makes testing your web components a breeze!
 - [test-fixture](https://github.com/PolymerElements/test-fixture) - Element that can simplify the exercise of consistently resetting a test suite's DOM.
 - [iron-test-helpers](https://github.com/PolymerElements/iron-test-helpers) - Utility classes to make testing easier.
 - [Testing Tips](https://medium.com/google-developer-experts/polymer-testing-tips-f217ba94a64) - 2016-01
