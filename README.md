@@ -22,7 +22,7 @@
 - [Integration with other frameworks](#integration-with-other-frameworks)
 - [Articles](#articles)
 - [Videos](#videos)
-- [Boilerplates](#boilerplates)
+- [Templates](#templates)
 - [Tools](#tools)
 - [Editor Plugins](#editor-plugins)
 - [Testing](#testing)
@@ -262,11 +262,14 @@ Polymer Project develops [PRPL server](https://github.com/Polymer/prpl-server-no
 - [Web and Chrome @ Google I/O 2016](https://www.youtube.com/playlist?list=PLNYkxOF6rcIDz1TzmmMRBC-kd8zPRTQIP) - 2016-05
 - [Polymer and modern web APIs: In production at Google scale @ Google I/O 2015](https://www.youtube.com/watch?v=fD2As5RmM8Q) - 2015-05
 
-## Boilerplates
+## Templates
 
-- [Polymer Starter Kit](https://developers.google.com/web/tools/polymer-starter-kit/) - Build tools & boilerplate for creating production-quality web apps.
+- [Polymer Starter Kit](https://github.com/Polymer/polymer-starter-kit)
 - [Polymer Starter Kit Plus](https://github.com/StartPolymer/polymer-starter-kit-plus)
-- [Seed element](https://github.com/polymerlabs/seed-element)
+- [Polymer News](https://news-docs.polymer-project.org)
+- [Polymer Shop](https://github.com/Polymer/shop)
+- [Polymer Hacker News client v2](https://github.com/Polymer/hn-polymer-2)
+- [Polymer Hacker News client v3 (lit-html + Redux)](https://github.com/PolymerLabs/polymer-redux-hn)
 
 ## Tools
 
