@@ -244,8 +244,15 @@ Polymer Project develops [PRPL server](https://github.com/Polymer/prpl-server-no
 
 ### Chrome Dev Summit
 
+- [Chrome Dev Summit 2017](https://www.youtube.com/playlist?list=PLNYkxOF6rcICUD5nBfRdAR6Fveosnqa5m) - 2017-10
+  - [End-to-End Polymer Apps with the Modern Web Platform](https://www.youtube.com/watch?v=Wu2GCRkDecI&list=PLNYkxOF6rcICUD5nBfRdAR6Fveosnqa5m&index=18)
+  - [lit-HTML](https://www.youtube.com/watch?v=Io6JjgckHbg&list=PLNYkxOF6rcICUD5nBfRdAR6Fveosnqa5m&index=19)
 - [Chrome Dev Summit 2016](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBTs2KPy1E6tIYaWoFcG3uj) - 2016-11
+  - [Web Components and Polymer](https://www.youtube.com/watch?v=Ihdp63FaRKA&index=15&list=PLNYkxOF6rcIBTs2KPy1E6tIYaWoFcG3uj)
+  - [Planning for Performance: PRPL](https://www.youtube.com/watch?v=RWLzUnESylc&index=25&list=PLNYkxOF6rcIBTs2KPy1E6tIYaWoFcG3uj)
 - [Chrome Dev Summit 2015](https://www.youtube.com/playlist?list=PLNYkxOF6rcICcHeQY02XLvoGL34rZFWZn) - 2015-11
+  - [Polymer - State of the Union](https://www.youtube.com/watch?v=lck68wyVUo4&index=9&list=PLNYkxOF6rcICcHeQY02XLvoGL34rZFWZn)
+  - [Building Progressive Web Apps with Polymer](https://www.youtube.com/watch?v=g7f1Az5fxgU&index=11&list=PLNYkxOF6rcICcHeQY02XLvoGL34rZFWZn)
 
 ### Google I/O
 
