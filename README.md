@@ -135,6 +135,8 @@
 - [How to use Redux in Polymer -- Polycasts #61](https://www.youtube.com/watch?v=PahsgJn0sgU)
 - [Project Structure for Using Redux with Polymer 2.0](https://www.captaincodeman.com/2017/07/19/project-structure-for-using-redux-with-polymer-20)
 - [Why not to store objects in Redux](https://medium.com/collaborne-engineering/why-not-to-store-objects-in-redux-7f41243020fc) - 2017-07
+- [redux-store-element](https://github.com/lastmjs/redux-store-element) - A custom element allowing a more declarative use of Redux.
+- [pwa-helpers - Redux helpers](https://github.com/PolymerLabs/pwa-helpers#redux-helpers) - These utility methods are useful if your application is using Redux for state management.
 
 ### PRPL Pattern
 
