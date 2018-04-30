@@ -200,6 +200,7 @@ Polymer Project develops [PRPL server](https://github.com/Polymer/prpl-server-no
 
 ## Integration with other frameworks
 
+- [Integrating Polymer 3 Components on Angular 5, more simple…](https://medium.com/@tonytunes2005/integrating-polymer-3-components-on-angular-5-more-simple-7db2c5471567) - 2018-04
 - [Aurelia + Polymer integration](http://aurelia.io/hub.html#/doc/article/aurelia/framework/latest/integrating-with-polymer)
 - [How to use Polymer with Webpack](https://medium.com/dev-channel/how-to-use-polymer-with-webpack-b41812d78b15) - 2017-07
 
