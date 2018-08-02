@@ -107,10 +107,7 @@
   - [Benefits over JSX](https://github.com/Polymer/lit-html#benefits-over-jsx)
 - [lit-element](https://github.com/PolymerLabs/lit-element) - Base class for creating custom elements using Polymer and lit-html.
 - [fit-html](https://github.com/Festify/fit-html) - 3KB web components + lit-html + redux library without bloat.
-
-### TypeScript
-
-- [TypeScript decorators for Polymer 2.0](https://github.com/Polymer/polymer-decorators)
+- [Awesome lit-html](https://github.com/web-padawan/awesome-lit-html)
 
 ## Patterns
 
@@ -276,6 +273,8 @@ Polymer Project develops [PRPL server](https://github.com/Polymer/prpl-server-no
 
 ### Google I/O
 
+- [Web Components and the Polymer Project @ Google I/O 2018](https://www.youtube.com/watch?v=7CUO7PyD5zA&list=RD7CUO7PyD5zA&start_radio=1)
+- [Chrome and Web @ Google I/O 2018](https://www.youtube.com/playlist?list=PLNYkxOF6rcIC4NQeXpdAy0RbOACI66Hvf)
 - [Polymer @ Google I/O 2017](https://www.youtube.com/playlist?list=PL_c6rbXV248du6m1VJABo32mP7sXWVb4m) - 2017-05
 - [Chrome and Web @ Google I/O 2017](https://www.youtube.com/playlist?list=PLNYkxOF6rcICniLJ2rfj0FexlA-9zmJJE) - 2017-05
 - [Polymer @ Google I/O 2016](https://www.youtube.com/playlist?list=PLNYkxOF6rcIDnSm7bZRJC36Ca1DYXSQ70) - 2016-05
@@ -284,6 +283,7 @@ Polymer Project develops [PRPL server](https://github.com/Polymer/prpl-server-no
 
 ## Templates
 
+- [Awesome PWA Starter Kit](https://github.com/StartPolymer/awesome-pwa-starter-kit)
 - [Polymer Starter Kit](https://github.com/Polymer/polymer-starter-kit)
 - [Polymer Starter Kit Plus](https://github.com/StartPolymer/polymer-starter-kit-plus)
 - [Polymer News](https://news-docs.polymer-project.org)
