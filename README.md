@@ -167,8 +167,7 @@ Polymer Project develops [PRPL server](https://github.com/Polymer/prpl-server-no
 - [PRPL server - Rendering for Bots](https://github.com/Polymer/prpl-server-node#rendering-for-bots)
 - [Solving SEO with Headless Chrome (Polymer Summit 2017)](https://www.youtube.com/watch?v=ydThUDlBDfc&index=21&list=PLNYkxOF6rcIDP0PqVaJxqNWwIgvoEPzJi)
 - [Puppeteer Playground](https://try-puppeteer.appspot.com)
-- [Rendertron - headless rendering service](https://render-tron.appspot.com)
-- [StartPolymer Playground #1 is simple SEO-friendly template with fragment links.](https://github.com/StartPolymer/playgrounds)
+- [Rendertron - headless Chrome rendering solution designed to render & serialise web pages on the fly](https://github.com/GoogleChrome/rendertron)
 
 ### Searchbots
 
@@ -273,8 +272,8 @@ Polymer Project develops [PRPL server](https://github.com/Polymer/prpl-server-no
 
 ### Google I/O
 
-- [Web Components and the Polymer Project @ Google I/O 2018](https://www.youtube.com/watch?v=7CUO7PyD5zA&list=RD7CUO7PyD5zA&start_radio=1)
-- [Chrome and Web @ Google I/O 2018](https://www.youtube.com/playlist?list=PLNYkxOF6rcIC4NQeXpdAy0RbOACI66Hvf)
+- [Web Components and the Polymer Project @ Google I/O 2018](https://www.youtube.com/watch?v=7CUO7PyD5zA&list=RD7CUO7PyD5zA&start_radio=1) - 2018-05
+- [Chrome and Web @ Google I/O 2018](https://www.youtube.com/playlist?list=PLNYkxOF6rcIC4NQeXpdAy0RbOACI66Hvf) - 2018-05
 - [Polymer @ Google I/O 2017](https://www.youtube.com/playlist?list=PL_c6rbXV248du6m1VJABo32mP7sXWVb4m) - 2017-05
 - [Chrome and Web @ Google I/O 2017](https://www.youtube.com/playlist?list=PLNYkxOF6rcICniLJ2rfj0FexlA-9zmJJE) - 2017-05
 - [Polymer @ Google I/O 2016](https://www.youtube.com/playlist?list=PLNYkxOF6rcIDnSm7bZRJC36Ca1DYXSQ70) - 2016-05
